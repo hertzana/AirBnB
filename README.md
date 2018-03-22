@@ -1,6 +1,6 @@
 # AirBnB
 
-Used XGBoost to predict price of AirBnB listing, using training data with 74K+ data points. Collaborated with Galen Smith and Nathan Hearnsberger.
+Used XGBoost to predict price of AirBnB listing, using training data with 74K+ data points. Collaborated with Galen Smith and Nathan Hearnsberger (Deloitte colleagues).
 
 Engineered the following features to increase accuracy of prediction:
 1.	Bag of Words NLP to extract key words from listing descriptions
